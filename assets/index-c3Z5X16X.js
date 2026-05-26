@@ -181,7 +181,7 @@ Error generating stack: `+s.message+`
               to-cyan-400/10
               backdrop-blur-xl
               flex items-center justify-center
-            `,children:w.jsx("span",{className:"text-gray-400 text-lg",children:w.jsx("img",{src:"/profile.jpg",alt:"Ayah Mujahid",className:`
+            `,children:w.jsx("span",{className:"text-gray-400 text-lg",children:w.jsx("img",{src:"/ayah-portfolio/profile.jpg",alt:"Ayah Mujahid",className:`
     w-full
     h-full
     object-cover
