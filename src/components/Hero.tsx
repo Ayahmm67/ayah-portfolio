@@ -181,7 +181,7 @@ export default function Hero() {
 
             <span className="text-gray-400 text-lg">
               <img
-  src="/profile.jpg"
+src="/ayah-portfolio/profile.jpg"
   alt="Ayah Mujahid"
   className="
     w-full
