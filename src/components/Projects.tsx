@@ -93,7 +93,27 @@ export default function Projects() {
               </div>
 
               <div className="flex gap-5 mt-6">
+{project.caseStudy && (
+  <a
+    href={project.caseStudy}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:text-blue-300 transition font-medium"
+  >
+    📄 View Case Study
+  </a>
+)}
 
+{project.documentation && (
+  <a
+    href={project.documentation}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:text-blue-300 transition font-medium"
+  >
+    📑 View Documentation
+  </a>
+)}
                 {project.github && (
                   <a
                     href={project.github}
@@ -108,19 +128,19 @@ export default function Projects() {
                   </a>
                 )}
 
-                {project.demo && (
-                  <a
-                    href={project.demo}
-                    target="_blank"
-                    className="
-                      text-blue-400
-                      hover:text-blue-300
-                      transition
-                    "
-                  >
-                    Live Demo
-                  </a>
-                )}
+              {project.demo && (
+  <a
+    href={project.demo}
+    target="_blank"
+    className="
+      text-blue-400
+      hover:text-blue-300
+      transition
+    "
+  >
+    Live Demo
+  </a>
+)}
 
               </div>
             </div>

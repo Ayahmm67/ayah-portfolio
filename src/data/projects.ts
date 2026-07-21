@@ -20,7 +20,7 @@ export const projects = [
 
     github: '',
 
-    demo: '',
+    demo: '/videos/greenmail1.mp4',
 
     highlights: [
       'Built scalable full-stack architecture',
@@ -29,6 +29,36 @@ export const projects = [
       'Collaborated using Agile workflows',
     ],
   },
+  {
+  title: 'Sportly Support Assistant',
+
+  description:
+    'AI-powered customer support solution designed to improve user assistance and reduce support workload. The platform provides three support layers: AI chat assistance powered by Gemini, searchable FAQ resources with filtering capabilities, and a ticket creation system for unresolved issues. Contributed to frontend implementation, ticket management workflows, and AI-assisted support experiences.',
+
+  tech: [
+    'React',
+    'TypeScript',
+    'Gemini AI',
+    'REST APIs',
+    'CSS',
+    'Ticket Management',
+    'FAQ System',
+    'GitHub',
+  ],
+
+  category: 'AI-Powered Customer Support Platform',
+
+  github: '',
+
+  demo: '/videos/sportly.mp4',
+
+  highlights: [
+    'Integrated Gemini AI for intelligent user support',
+    'Implemented searchable FAQ and filtering features',
+    'Developed ticket creation workflows',
+    'Improved customer support efficiency through self-service tools',
+  ],
+},
 
   {
     title: 'Sign Language Web Application',
@@ -49,8 +79,7 @@ export const projects = [
     category: 'Accessibility-Focused Web Development',
 
     github: '',
-
-    demo: '',
+  documentation: '/files/SignLanguageDocumentation.pdf',
 
     highlights: [
       'Implemented accessibility-focused features',
@@ -81,7 +110,7 @@ export const projects = [
 
     github: '',
 
-    demo: '',
+    demo: '/videos/greenmail2.mp4',
 
     highlights: [
       'Integrated YouTube API services',
@@ -139,7 +168,7 @@ export const projects = [
     github: '',
 
     demo: '',
-
+  caseStudy: '/files/BarakahCaseStudy.pdf',
     highlights: [
       'Designed personalized product experiences',
       'Conducted usability evaluations and A/B testing',
