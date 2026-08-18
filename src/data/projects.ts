@@ -18,6 +18,8 @@ export const projects = [
 
     category: 'Full-Stack Engineering + AI',
 
+    type: 'development',
+
     github: '',
 
     demo: '/videos/greenmail1.mp4',
@@ -26,39 +28,42 @@ export const projects = [
       'Built scalable full-stack architecture',
       'Integrated AI-powered prediction models',
       'Developed frontend and backend features',
-      'Collaborated using Agile workflows',
+      'Collaborated through Agile workflows',
     ],
   },
+
   {
-  title: 'Sportly Support Assistant',
+    title: 'Sportly Support Assistant',
 
-  description:
-    'AI-powered customer support solution designed to improve user assistance and reduce support workload. The platform provides three support layers: AI chat assistance powered by Gemini, searchable FAQ resources with filtering capabilities, and a ticket creation system for unresolved issues. Contributed to frontend implementation, ticket management workflows, and AI-assisted support experiences.',
+    description:
+      'AI-powered customer support solution designed to improve user assistance and reduce support workload. The platform provides three support layers: AI chat assistance powered by Gemini, searchable FAQ resources with filtering capabilities, and a ticket creation system for unresolved issues. Contributed to frontend implementation, ticket management workflows, and AI-assisted support experiences.',
 
-  tech: [
-    'React',
-    'TypeScript',
-    'Gemini AI',
-    'REST APIs',
-    'CSS',
-    'Ticket Management',
-    'FAQ System',
-    'GitHub',
-  ],
+    tech: [
+      'React',
+      'TypeScript',
+      'Gemini AI',
+      'REST APIs',
+      'CSS',
+      'Ticket Management',
+      'FAQ System',
+      'GitHub',
+    ],
 
-  category: 'AI-Powered Customer Support Platform',
+    category: 'AI-Powered Customer Support Platform',
 
-  github: '',
+    type: 'development',
 
-  demo: '/videos/sportly.mp4',
+    github: '',
 
-  highlights: [
-    'Integrated Gemini AI for intelligent user support',
-    'Implemented searchable FAQ and filtering features',
-    'Developed ticket creation workflows',
-    'Improved customer support efficiency through self-service tools',
-  ],
-},
+    demo: '/videos/sportly.mp4',
+
+    highlights: [
+      'Integrated Gemini AI for intelligent user support',
+      'Implemented searchable FAQ and filtering features',
+      'Developed ticket creation workflows',
+      'Improved customer support efficiency through self-service tools',
+    ],
+  },
 
   {
     title: 'Sign Language Web Application',
@@ -78,8 +83,11 @@ export const projects = [
 
     category: 'Accessibility-Focused Web Development',
 
+    type: 'development',
+
     github: '',
-  documentation: '/files/SignLanguageDocumentation.pdf',
+
+    documentation: '/files/SignLanguageDocumentation.pdf',
 
     highlights: [
       'Implemented accessibility-focused features',
@@ -108,6 +116,8 @@ export const projects = [
 
     category: 'Mobile Application Development',
 
+    type: 'development',
+
     github: '',
 
     demo: '/videos/greenmail2.mp4',
@@ -119,6 +129,35 @@ export const projects = [
       'Collaborated through Agile workflows',
     ],
   },
+
+  {
+  title: 'CareerPilot',
+
+  description:
+    'AI-powered career guidance platform designed to help new graduates assess career readiness, identify skill gaps, and discover personalized career development opportunities through a user-centered mobile experience.',
+
+  tech: [
+    'Figma',
+    'UX Research',
+    'UI Design',
+    'Prototyping',
+    'User Flows',
+    'Usability Testing',
+  ],
+type: 'uxui',
+ category: 'UX/UI Design + Research',
+
+  github: '',
+
+  caseStudy: '/files/CareerPilotCaseStudy.pdf',
+
+  highlights: [
+    'Designed a personalized career guidance experience',
+    'Created user flows and high-fidelity prototypes',
+    'Designed career readiness and skill-gap experiences',
+    'Applied user-centered design and usability principles',
+  ],
+},
 
   {
     title: 'Amazon User Experience Case Study',
@@ -136,9 +175,15 @@ export const projects = [
 
     category: 'UX/UI Design + Research',
 
+    type: 'uxui',
+
     github: '',
 
     demo: '',
+
+   
+
+    documentation: '/files/uxproject.pdf',
 
     highlights: [
       'Performed usability evaluations',
@@ -165,10 +210,14 @@ export const projects = [
 
     category: 'Product Design + UX/UI',
 
+    type: 'uxui',
+
     github: '',
 
     demo: '',
-  caseStudy: '/files/BarakahCaseStudy.pdf',
+
+    caseStudy: '/files/BarakahCaseStudy.pdf',
+
     highlights: [
       'Designed personalized product experiences',
       'Conducted usability evaluations and A/B testing',
