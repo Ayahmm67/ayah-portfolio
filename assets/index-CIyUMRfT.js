@@ -304,8 +304,8 @@ Error generating stack: `+s.message+`
             rounded-[40px]
             p-10 md:p-16
             backdrop-blur-xl
-          `,children:w.jsxs("div",{className:"grid md:grid-cols-2 gap-16 items-center",children:[w.jsxs("div",{children:[w.jsxs("h2",{className:`
-                  text-5xl md:text-6xl
+          `,children:w.jsxs("div",{className:"grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16 items-center",children:[w.jsxs("div",{children:[w.jsxs("h2",{className:`
+                text-4xl md:text-5xl lg:text-6xl ...
                   font-bold
                   leading-tight
                   mb-6
