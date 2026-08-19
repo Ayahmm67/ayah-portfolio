@@ -315,21 +315,14 @@ Error generating stack: `+s.message+`
                   text-lg\r
                   leading-relaxed\r
                   mb-10\r
-                `,children:"Full-Stack Software Engineer with experience in frontend and backend development, UX/UI design, business analysis, and AI-powered digital products focused on scalable and user-centered solutions."}),w.jsxs("div",{className:"flex flex-wrap gap-4",children:[w.jsx("a",{href:"https://mail.google.com/mail/?view=cm&fs=1&to=ayahmm67@gmail.com",className:`\r
+                `,children:"Full-Stack Software Engineer with experience in frontend and backend development, UX/UI design, business analysis, and AI-powered digital products focused on scalable and user-centered solutions."}),w.jsx("div",{className:"flex flex-wrap gap-4",children:w.jsx("a",{href:"https://mail.google.com/mail/?view=cm&fs=1&to=ayahmm67@gmail.com",className:`\r
                     bg-blue-500\r
                     hover:bg-blue-400\r
                     transition\r
                     px-7 py-4\r
                     rounded-2xl\r
                     font-medium\r
-                  `,children:"Contact Me"}),w.jsx("a",{href:"/Ayah-CV.pdf",target:"_blank",className:`\r
-                    border border-white/10\r
-                    hover:border-blue-400\r
-                    transition\r
-                    px-7 py-4\r
-                    rounded-2xl\r
-                    font-medium\r
-                  `,children:"Resume"})]})]}),w.jsxs("div",{className:`\r
+                  `,children:"Contact Me"})})]}),w.jsxs("div",{className:`\r
                 bg-white/5\r
                 border border-white/10\r
                 rounded-3xl\r
@@ -349,7 +342,7 @@ Error generating stack: `+s.message+`
                       rounded-2xl\r
                       bg-blue-500/10\r
                       flex items-center justify-center\r
-                    `,children:w.jsx(jv,{className:"text-blue-400"})}),w.jsxs("div",{children:[w.jsx("p",{className:"text-gray-400 text-sm",children:"Location"}),w.jsx("p",{className:"text-white text-lg",children:"Jeddah, Saudi Arabia"})]})]})]}),w.jsxs("div",{className:"flex gap-5 mt-10",children:[w.jsx("a",{href:"https://github.com/ayahmm67",target:"_blank",className:`\r
+                    `,children:w.jsx(jv,{className:"text-blue-400"})}),w.jsxs("div",{children:[w.jsx("p",{className:"text-gray-400 text-sm",children:"Location"}),w.jsx("p",{className:"text-white text-lg",children:"Saudi Arabia"})]})]})]}),w.jsxs("div",{className:"flex gap-5 mt-10",children:[w.jsx("a",{href:"https://github.com/ayahmm67",target:"_blank",className:`\r
                     w-14 h-14\r
                     rounded-2xl\r
                     bg-white/5\r
